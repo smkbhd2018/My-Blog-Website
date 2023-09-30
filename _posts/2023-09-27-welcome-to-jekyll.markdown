@@ -4,6 +4,21 @@ title:  "Welcome to Jekyll!"
 date:   2023-09-27 20:33:11 +0000
 categories: jekyll update
 ---
+https://i.imgur.com/qrBxzig.mp4
+[![Imgur](https://i.imgur.com/qrBxzig.mp4)](https://i.imgur.com/qrBxzig.mp4)
+
+
+<a href="https://imgur.com/qrBxzig"><img src="https://i.imgur.com/qrBxzig.mp4" title="source: imgur.com" /></a>
+
+this is my animation I have Done in ardakan
+It took me more for came up with character and its texture
+I am happy 😊
+
+
+
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
