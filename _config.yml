@@ -38,7 +38,7 @@ url: "https://smkbhd2018.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 #remove auto update
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
