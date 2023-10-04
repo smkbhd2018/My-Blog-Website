@@ -272,10 +272,37 @@
 
 
 // ?               
+.post-list li {
+  background: rgba(143, 143, 143, 0.562);
+  padding: 1rem;
+  border-radius: 0.5rem;
 
+}
 .blog-roll-imag{
   width: 20rem;
   height: 10rem;
   object-fit: cover;
+  border-radius: 0.5rem;
 
+
+}
+
+
+.post-list li{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 0.1fr 1fr;
+}
+
+.blog-roll-imag{
+  grid-row:1/3;
+}
+
+li h3{
+justify-content: center;
+// margin: auto 0;
+}
+
+h3 a{
+  font-size: 2rem !important;
 }

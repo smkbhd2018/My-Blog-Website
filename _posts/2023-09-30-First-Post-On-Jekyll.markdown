@@ -3,6 +3,7 @@ layout: post
 title:  "First Post On Jekyll!"
 date:   2023-09-30 20:33:11 +0000
 categories: jekyll update
+image: /assets/images/first.png
 ---
 <style>
 .imgur-embed-iframe-pub{
